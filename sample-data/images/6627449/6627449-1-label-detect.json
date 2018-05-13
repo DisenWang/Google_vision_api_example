@@ -1,0 +1,64 @@
+{
+  "labelAnnotations": [
+    {
+      "score": 0.9537237286567688, 
+      "topicality": 0.9537237286567688, 
+      "mid": "/m/0c_jw", 
+      "description": "furniture"
+    }, 
+    {
+      "score": 0.9529340863227844, 
+      "topicality": 0.9529340863227844, 
+      "mid": "/m/02crq1", 
+      "description": "couch"
+    }, 
+    {
+      "score": 0.951786994934082, 
+      "topicality": 0.951786994934082, 
+      "mid": "/m/03f6tq", 
+      "description": "living room"
+    }, 
+    {
+      "score": 0.9029748439788818, 
+      "topicality": 0.9029748439788818, 
+      "mid": "/m/06ht1", 
+      "description": "room"
+    }, 
+    {
+      "score": 0.8856114745140076, 
+      "topicality": 0.8856114745140076, 
+      "mid": "/m/05wrt", 
+      "description": "property"
+    }, 
+    {
+      "score": 0.8502763509750366, 
+      "topicality": 0.8502763509750366, 
+      "mid": "/m/09qqq", 
+      "description": "wall"
+    }, 
+    {
+      "score": 0.8286039233207703, 
+      "topicality": 0.8286039233207703, 
+      "mid": "/m/02rfdq", 
+      "description": "interior design"
+    }, 
+    {
+      "score": 0.8136826157569885, 
+      "topicality": 0.8136826157569885, 
+      "mid": "/m/01l0mw", 
+      "description": "home"
+    }, 
+    {
+      "score": 0.804099440574646, 
+      "topicality": 0.804099440574646, 
+      "mid": "/m/0703r8", 
+      "description": "loveseat"
+    }, 
+    {
+      "score": 0.6970182657241821, 
+      "topicality": 0.6970182657241821, 
+      "mid": "/m/01mzpv", 
+      "description": "chair"
+    }
+  ]
+}

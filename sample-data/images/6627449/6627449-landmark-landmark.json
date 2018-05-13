@@ -1,0 +1,37 @@
+{
+  "landmarkAnnotations": [
+    {
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 40.689261, 
+            "longitude": -74.044482
+          }
+        }
+      ], 
+      "score": 0.8139199018478394, 
+      "mid": "/m/072p8", 
+      "boundingPoly": {
+        "vertices": [
+          {
+            "y": 127, 
+            "x": 330
+          }, 
+          {
+            "y": 127, 
+            "x": 582
+          }, 
+          {
+            "y": 561, 
+            "x": 582
+          }, 
+          {
+            "y": 561, 
+            "x": 330
+          }
+        ]
+      }, 
+      "description": "Statue of Liberty"
+    }
+  ]
+}

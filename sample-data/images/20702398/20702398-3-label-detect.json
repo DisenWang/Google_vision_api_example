@@ -1,0 +1,64 @@
+{
+  "labelAnnotations": [
+    {
+      "score": 0.9609436988830566, 
+      "topicality": 0.9609436988830566, 
+      "mid": "/m/0c_jw", 
+      "description": "furniture"
+    }, 
+    {
+      "score": 0.960426926612854, 
+      "topicality": 0.960426926612854, 
+      "mid": "/m/0h70h_", 
+      "description": "bed frame"
+    }, 
+    {
+      "score": 0.9497967958450317, 
+      "topicality": 0.9497967958450317, 
+      "mid": "/m/02_58j", 
+      "description": "bedroom"
+    }, 
+    {
+      "score": 0.9166544675827026, 
+      "topicality": 0.9166544675827026, 
+      "mid": "/m/05wrt", 
+      "description": "property"
+    }, 
+    {
+      "score": 0.9147360324859619, 
+      "topicality": 0.9147360324859619, 
+      "mid": "/m/06ht1", 
+      "description": "room"
+    }, 
+    {
+      "score": 0.9054245352745056, 
+      "topicality": 0.9054245352745056, 
+      "mid": "/m/03ssj5", 
+      "description": "bed"
+    }, 
+    {
+      "score": 0.8741758465766907, 
+      "topicality": 0.8741758465766907, 
+      "mid": "/m/03dg8j", 
+      "description": "mattress"
+    }, 
+    {
+      "score": 0.7280521392822266, 
+      "topicality": 0.7280521392822266, 
+      "mid": "/m/0l7_8", 
+      "description": "floor"
+    }, 
+    {
+      "score": 0.72801274061203, 
+      "topicality": 0.72801274061203, 
+      "mid": "/m/01l0mw", 
+      "description": "home"
+    }, 
+    {
+      "score": 0.7109578251838684, 
+      "topicality": 0.7109578251838684, 
+      "mid": "/m/04mygm", 
+      "description": "bed sheet"
+    }
+  ]
+}

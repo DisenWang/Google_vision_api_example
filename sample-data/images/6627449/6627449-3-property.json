@@ -1,0 +1,121 @@
+{
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 163.0, 
+            "green": 189.0, 
+            "red": 206.0
+          }, 
+          "pixelFraction": 0.08942486345767975, 
+          "score": 0.1185842901468277
+        }, 
+        {
+          "color": {
+            "blue": 26.0, 
+            "green": 40.0, 
+            "red": 71.0
+          }, 
+          "pixelFraction": 0.05213358253240585, 
+          "score": 0.08920283615589142
+        }, 
+        {
+          "color": {
+            "blue": 192.0, 
+            "green": 196.0, 
+            "red": 201.0
+          }, 
+          "pixelFraction": 0.0826839804649353, 
+          "score": 0.10126246511936188
+        }, 
+        {
+          "color": {
+            "blue": 131.0, 
+            "green": 157.0, 
+            "red": 173.0
+          }, 
+          "pixelFraction": 0.06802721321582794, 
+          "score": 0.08648433536291122
+        }, 
+        {
+          "color": {
+            "blue": 97.0, 
+            "green": 118.0, 
+            "red": 135.0
+          }, 
+          "pixelFraction": 0.05256647989153862, 
+          "score": 0.08327948302030563
+        }, 
+        {
+          "color": {
+            "blue": 13.0, 
+            "green": 23.0, 
+            "red": 50.0
+          }, 
+          "pixelFraction": 0.031292516738176346, 
+          "score": 0.07906916737556458
+        }, 
+        {
+          "color": {
+            "blue": 64.0, 
+            "green": 82.0, 
+            "red": 102.0
+          }, 
+          "pixelFraction": 0.033951763063669205, 
+          "score": 0.05438387393951416
+        }, 
+        {
+          "color": {
+            "blue": 20.0, 
+            "green": 20.0, 
+            "red": 44.0
+          }, 
+          "pixelFraction": 0.01589363068342209, 
+          "score": 0.03817998990416527
+        }, 
+        {
+          "color": {
+            "blue": 150.0, 
+            "green": 157.0, 
+            "red": 163.0
+          }, 
+          "pixelFraction": 0.0239950530230999, 
+          "score": 0.03543855622410774
+        }, 
+        {
+          "color": {
+            "blue": 236.0, 
+            "green": 228.0, 
+            "red": 217.0
+          }, 
+          "pixelFraction": 0.02312925085425377, 
+          "score": 0.03464168310165405
+        }
+      ]
+    }
+  }, 
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "confidence": 0.7999999523162842, 
+        "importanceFraction": 1.0, 
+        "boundingPoly": {
+          "vertices": [
+            {}, 
+            {
+              "x": 913
+            }, 
+            {
+              "y": 682, 
+              "x": 913
+            }, 
+            {
+              "y": 682
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
